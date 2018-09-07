@@ -1,0 +1,28 @@
+body html {
+  height: 100%; }
+
+nav ul {
+  margin: 0;
+  padding: 6px;
+  list-style: none; }
+
+nav li {
+  display: inline-block; }
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+.inspectingcodeisfun {
+  display: none;
+  text-align: center; }
+
+.nameisasyouwant {
+  text-align: center; }
+
+#wrap {
+  min-width: 1280px;
+  max-width: 1920px;
+  margin: 0 auto;
+  background: #37373d; }

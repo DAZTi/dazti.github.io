@@ -1,0 +1,39 @@
+$padding: 6px;
+
+body {
+  html {
+    height: 100%;
+    }  
+}
+
+nav {
+  ul {
+    margin: 0;
+    padding: $padding;
+    list-style: none;
+  }
+
+  li { display: inline-block; }
+
+  a {
+    display: block;
+    padding: $padding 12px;
+    text-decoration: none;
+  }
+}
+
+.inspectingcodeisfun {
+  display: none;
+  text-align: center;
+}
+
+.nameisasyouwant{
+  text-align: center;
+}
+
+#wrap{
+  min-width:1280px;
+	max-width:1920px;
+	margin: 0 auto;
+  background: #37373d;
+}
