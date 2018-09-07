@@ -29,11 +29,18 @@ nav {
 
 .nameisasyouwant{
   text-align: center;
+  display: none;
 }
 
-#wrap{
-  min-width:1280px;
-	max-width:1920px;
-	margin: 0 auto;
-  background: #37373d;
+
+.counter{
+  h1{
+  font-size: 1.2rem;
+    }
+  text-align: center;
+  display: none;
+
 }
+
+
+
