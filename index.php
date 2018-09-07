@@ -8,8 +8,10 @@
     </head>
     <body>
 
+<!--  ss -->
+
             <div class="container-fluid">
-                   <div class="inspectingcodeisfun">
+                   <div class="inspectingcodeisfun"> 
                     <a class="welcome">
                         <h1>
                         Hello, my name is Daniel
@@ -22,9 +24,9 @@
                 </div>
             </div>
 
-        <?php
-        include "config/_counter.php";
-        ?>
+                    <?php
+                    include "config/_counter.php";
+                    ?>
 
             <div class="counter">
                 <h1>
